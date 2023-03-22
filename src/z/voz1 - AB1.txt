@@ -1,0 +1,4 @@
+enginesCount 2 CE CE 
+wagonCount 2 CW SW
+speed 2.0
+start A destination E

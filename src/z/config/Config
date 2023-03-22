@@ -1,0 +1,8 @@
+road1speed=2.2
+road1count=10
+road2speed=1.7
+road2count=15
+road3speed=1.5
+road3count=10
+pathTrains=src\\z\\trains
+pathTrainline=src\\z\\trainline

@@ -1,0 +1,17 @@
+CE - cargo
+CW
+
+PE - passenger
+PWB - beds
+PWR - resta
+PWSE - seats
+PWSL - sleep
+
+UE - universal
+SW - special
+
+RE - repair
+
+PE - PE - UE
+CE - CE - UE
+RE
