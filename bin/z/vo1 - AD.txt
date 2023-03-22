@@ -1,0 +1,4 @@
+enginesCount 3 PE UE UE 
+wagonCount 1 PWB 
+speed 1.5
+start A destination D

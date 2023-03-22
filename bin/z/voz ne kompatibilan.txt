@@ -1,0 +1,4 @@
+enginesCount 2 RE UE
+wagonCount 1 PWB
+speed 1.3
+start A destination B

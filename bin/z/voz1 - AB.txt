@@ -1,0 +1,4 @@
+enginesCount 2 RE RE
+wagonCount 0
+speed 1.3
+start A destination B

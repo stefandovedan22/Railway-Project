@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="610.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="scene.main.SecondaryViewController">
+   <children>
+      <ComboBox fx:id="comboBox" layoutX="600.0" layoutY="14.0" onAction="#box" prefHeight="75.0" prefWidth="290.0" style="-fx-border-color: black;" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10.0" />
+      <Label fx:id="trainLabel" alignment="TOP_LEFT" contentDisplay="TOP" layoutX="14.0" layoutY="97.0" lineSpacing="2.0" prefHeight="503.0" prefWidth="581.0" style="-fx-border-color: black;" wrapText="true" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="100.0">
+         <font>
+            <Font size="15.0" />
+         </font></Label>
+   </children>
+</AnchorPane>
